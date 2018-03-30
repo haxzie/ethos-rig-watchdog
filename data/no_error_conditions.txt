@@ -1,0 +1,3 @@
+mining
+just_booted
+high_load

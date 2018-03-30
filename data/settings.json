@@ -1,0 +1,10 @@
+{
+    "ETHOS_DASH_URL" : "http://YOUR_ETHOS_PANEL.ethosdistro.com/",
+    "ETHOS_AILMENT_URL" : "http://YOUR_ETHOS_PANEL.ethosdistro.com/?ailments=mining",
+    "WAIT_INTERVAL" : 60,
+    "PUSHOVER_DATA" : {
+        "PUSHOVER_TOKEN" : "PUSHOVER_TOKEN",
+        "PUSHOVER_USER_KEY" : "PUSHOVER_USER_EY",
+        "PUSHOVER_API_URL" : "https://api.pushover.net/1/messages.json"
+    }
+}
